@@ -2,7 +2,7 @@ Last update: 30 October 2025.
 
 # Science Resources
 
-You can find resources related to programming, such as Physics and Biology, see list below.
+You can find resources related to science, such as Physics and Biology, see list below.
 
 Please note that the resources are in English; however, it will be indicated if they are in another language.
 
