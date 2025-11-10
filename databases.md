@@ -8,8 +8,10 @@ Resources for databases.
 <br>
 <br>
 
-## Different resources
+## Many resources in one place
 https://www.expasy.org/ ---> bioinformatics software tools, database/knowledgebase resources, and datasets. 
+<br>
+<br>
 
 ## Genomics
 https://www.genecards.org/
