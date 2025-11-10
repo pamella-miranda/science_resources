@@ -1,8 +1,10 @@
 Last update: 30 October 2025.
+<br>
+<br>
 
 # Science Resources
 
-You can find resources related to science, such as Physics and Biology, see list below.
+Here you can find resources related to science, such as Physics and Biology, see list below.
 
 Please note that the resources are in English; however, it will be indicated if they are in another language.
 
