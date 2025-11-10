@@ -8,8 +8,13 @@ Resources for Biocuration.
 <br>
 <br>
 
-----
+---
+## Society
 https://www.biocuration.org/
+<br>
+<br>
 
+## Courses
+https://www.ebi.ac.uk/training/online/courses/biocuration-collection/
 
 
