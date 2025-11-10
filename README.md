@@ -12,7 +12,6 @@ Eventually, the resources will be checked to ensure they remain available and of
 
 ## List of topics
 
-- Physics
-- Astronomy
+- Best practices
 - Virology
-- Biology
+- Databases
