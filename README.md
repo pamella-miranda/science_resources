@@ -1,4 +1,4 @@
-Last update: 10 November 2025.
+Last update: 11 August 2026.
 <br>
 <br>
 
@@ -21,5 +21,7 @@ Enjoy! 😄 😉
 
 - Best practices
 - Biocuration
+- Data analysis
 - Databases
+- Nucleic acids
 - Virology
